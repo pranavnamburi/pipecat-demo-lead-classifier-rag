@@ -1,4 +1,3 @@
-.env
 test_barebones.py
 test_transport.py
 main_simplified.py
