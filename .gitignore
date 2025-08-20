@@ -1,0 +1,16 @@
+.env
+test_barebones.py
+test_transport.py
+main_simplified.py
+__pycache__/
+main_simplified.py
+chroma_db/* 
+chroma_db/7b1dc8cc-efdb-41eb-a2eb-7d4a5f0164f5/data_level0.bin
+chroma_db/7b1dc8cc-efdb-41eb-a2eb-7d4a5f0164f5/header.bin
+chroma_db/7b1dc8cc-efdb-41eb-a2eb-7d4a5f0164f5/length.bin
+chroma_db/7b1dc8cc-efdb-41eb-a2eb-7d4a5f0164f5/link_lists.bin
+tools/chroma_db/ab00ac44-eb55-4a2b-9e6e-8d10af861e1a/data_level0.bin
+tools/chroma_db/ab00ac44-eb55-4a2b-9e6e-8d10af861e1a/header.bin
+tools/chroma_db/ab00ac44-eb55-4a2b-9e6e-8d10af861e1a/length.bin
+tools/chroma_db/ab00ac44-eb55-4a2b-9e6e-8d10af861e1a/link_lists.bin
+tools/chroma_db/chroma.sqlite3

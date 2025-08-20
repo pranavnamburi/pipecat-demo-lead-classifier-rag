@@ -1,0 +1,13 @@
+pipecat-ai[webrtc,cartesia,openai,silero,deepgram]
+fastapi
+uvicorn
+python-dotenv
+loguru
+websockets
+twilio
+ngrok
+chromadb
+langchain
+langchain-openai
+langchain-community
+pandas
